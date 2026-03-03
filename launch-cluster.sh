@@ -1,4 +1,4 @@
-#!/bin/bash
+docker system df#!/bin/bash
 
 # Default Configuration
 IMAGE_NAME="vllm-node"
